@@ -1,6 +1,6 @@
 # git-practice
 
-Учебный проект для освоения Git и GitHub.
+Учебный проект для освоения Git, GitHub и pull request'ов.
 
 ## Цель
 
